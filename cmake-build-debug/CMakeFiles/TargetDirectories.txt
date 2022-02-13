@@ -1,0 +1,3 @@
+C:/Users/joris/Documents/Personal/C++/NumGuesser/cmake-build-debug/CMakeFiles/NumGuesser.dir
+C:/Users/joris/Documents/Personal/C++/NumGuesser/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joris/Documents/Personal/C++/NumGuesser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
